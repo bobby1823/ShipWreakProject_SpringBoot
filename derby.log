@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 03 14:48:20 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0168-b2a6-c6c1-0000097aa788 
+on database directory memory:D:\D\WorkSpaces\SpringBoot\ShipWreakProject_SpringBoot\testdb with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/M1034075/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=D:\D\WorkSpaces\SpringBoot\ShipWreakProject_SpringBoot
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

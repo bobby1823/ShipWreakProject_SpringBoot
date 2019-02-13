@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "flyway.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.datasource.url'"
+  },
+  {
+    "name": "flyway.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.datasource.username'"
+  },
+  {
+    "name": "flyway.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.datasource.password'"
+  },
+  {
+    "name": "flyway.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway.datasource.driver-class-name'"
+  }
+]}
